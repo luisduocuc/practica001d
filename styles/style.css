@@ -1,9 +1,7 @@
 body {
-    background-image: url(/img/fondo.jpg);
-    background-size: cover;
+    background-image: url(../img/background.jpg);
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 nav a{
@@ -16,10 +14,7 @@ nav a{
     display: flex;
     align-items: center;
 }
-body {
-    font-family: sans-serif;
-    margin: 0;
-}
+
 
 .logo img{
     height: 90px;
@@ -31,10 +26,7 @@ body {
         flex-direction: column;
     }
 }
-.img {
-    background-image: center; 
 
-}
 
 ul {
   list-style-type: none;
@@ -68,8 +60,8 @@ li a:hover {
 }
 
 .tamano_banner{
-  width: 50%;
-  height: 50%; 
+  width: 1000px;
+  height: 450px; 
 }
 .container{
   border-radius: 20px;
