@@ -11,6 +11,7 @@ body{
   background-color: #242424;
   width: 100%;
   min-width: 300px;
+  border-radius: 10px;
 }
 .logos_rrss{
   list-style-type: none;
